@@ -1,0 +1,1 @@
+#wp-spam-bot
